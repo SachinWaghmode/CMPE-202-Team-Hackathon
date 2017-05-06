@@ -18,5 +18,7 @@ Scenario #3:
 Palo Alto
 A picky gas station wants to the ask the customer if they want to print a receipt at the beginning of the process rather than at the end of the process.
 
+<img width="1004" alt="screen shot 2017-05-06 at 4 13 02 pm" src="https://cloud.githubusercontent.com/assets/25470880/25776595/26762a24-3277-11e7-9748-e28323672843.png">
+
 
 
